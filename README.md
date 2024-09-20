@@ -23,3 +23,19 @@ permettant d’effectuer des opérations mathématiques très simples.
 - Nom : v1.0
 - Date de sortie : 28 Septembre 2018
 - Nombre de fichiers .py : 2
+
+### - Version 1.1
+
+- Nom : v1.1
+- Date de sortie : 9 Février 2020
+- Nombre de fichiers .py : 3
+
+### - Version 1.2
+
+- Nom : v1.2
+- Date de sortie : 9 Février 2022
+- Nombre de fichiers .py : 4
+
+## Commits effectués depuis la version 1.2 
+
+Avant les modifications demandées par le sujet de l'évaluation, il y a eu 1 commit depuis que la version 1.2 a été publiée
