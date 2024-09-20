@@ -39,3 +39,6 @@ permettant d’effectuer des opérations mathématiques très simples.
 ## Commits effectués depuis la version 1.2 
 
 Avant les modifications demandées par le sujet de l'évaluation, il y a eu 1 commit depuis que la version 1.2 a été publiée
+
+
+P.-S. : J'ai pas eu les problèmes attendus au moment de faire une PR avec la branche trigonometrie étant donné que je l'avais fait avant.
